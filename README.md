@@ -28,3 +28,4 @@ A responsive personal portfolio website built with HTML and CSS, designed for Gi
 ## Customize
 Edit the text in `index.html` and the colors near the top of `style.css` under `:root`.
 Review project descriptions to ensure they accurately represent the work in each repository.
+Portfolio website update.
